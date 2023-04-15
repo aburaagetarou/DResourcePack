@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Archive
-        run: zip -rj diverse.zip . -x 'LICENSE' '.github/*'
+        run: zip -r diverse.zip . -x "LICENSE" ".github/*"
         
       - name: Create Release
         id: create_release
