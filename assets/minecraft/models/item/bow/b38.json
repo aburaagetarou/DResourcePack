@@ -6074,12 +6074,12 @@
 		"firstperson_righthand": {
 			"rotation": [-28.74, -87.33, -46.32],
 			"translation": [6.5, -2.75, -7],
-			"scale": [1.5, 1.5, 1.5]
+			"scale": [2, 2, 2]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-166.57, -58.43, -11.88],
-			"translation": [6.25, 7.25, 3.75],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [-163.53, -51.25, -7.03],
+			"translation": [6.5, 13, 5.5],
+			"scale": [2, 2, 2]
 		},
 		"ground": {
 			"translation": [0, 1.5, 0],
