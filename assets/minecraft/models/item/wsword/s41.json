@@ -2586,14 +2586,14 @@
 			"scale": [2, 3.4, 3.4]
 		},
 		"firstperson_righthand": {
-			"rotation": [-6.89, 20.96, 11.85],
-			"translation": [1.75, 18.75, 0],
-			"scale": [3, 3, 1]
+			"rotation": [-7.81, -10, 2],
+			"translation": [2.5, 19, -0.25],
+			"scale": [3, 3, 3]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-8.98, 6.25, 10.5],
-			"translation": [0.75, 18.75, -1.5],
-			"scale": [3, 3, 1]
+			"rotation": [-7.81, -10, 2],
+			"translation": [2.5, 19, -0.25],
+			"scale": [3, 3, 3]
 		},
 		"ground": {
 			"rotation": [0, 0, 90],
