@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "models/saint watermelon",
-		"1": "models/saint watermelon top",
+		"0": "models/saint_watermelon",
+		"1": "models/saint_watermelon_top",
 		"2": "block/horn_coral",
-		"particle": "models/saint watermelon"
+		"particle": "models/saint_watermelon"
 	},
 	"elements": [
 		{

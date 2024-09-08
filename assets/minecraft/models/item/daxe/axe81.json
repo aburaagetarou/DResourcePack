@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "models/disaster watermelon",
-		"1": "models/disaster watermelon top",
+		"0": "models/disaster_watermelon",
+		"1": "models/disaster_watermelon_top",
 		"2": "block/crimson_roots",
-		"particle": "models/disaster watermelon"
+		"particle": "models/disaster_watermelon"
 	},
 	"elements": [
 		{
