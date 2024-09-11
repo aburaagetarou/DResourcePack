@@ -1,0 +1,12 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/wooden_pickaxe"
+	},
+	"overrides": [
+		{"predicate":{"custom_model_data":1},"model":"item/wooden_pickaxe/1"},
+		{"predicate":{"custom_model_data":2},"model":"item/wooden_pickaxe/2"},
+		{"predicate":{"custom_model_data":3},"model":"item/wooden_pickaxe/3"},
+		{"predicate":{"custom_model_data":4},"model":"item/wooden_pickaxe/4"}
+	]
+}
