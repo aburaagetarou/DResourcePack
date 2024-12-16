@@ -19,8 +19,8 @@ Reproduction and/or modification of data without permission, secondary use of da
 ※DiscordID,順不同
 
 また、以下のサイトで公開されている素材を使用させていただいております。
-- Bakenekokan [http://neko.moo.jp/BS/main/0/note.htm]
+- [Bakenekokan](http://neko.moo.jp/BS/main/0/note.htm)
 
 # お問い合わせ/Contact
-アセットに関するお問い合わせは、特別な事情がなければDiscord[@aburaagetarou]にお送りください。
-また、@aburaagetarou(KILOSiberia)が「HiddenFieldServer」[http://seesaawiki.jp/hiddenfieldserver/]で作成したリソースを一部共有しています。
+アセットに関するお問い合わせは、特別な事情がなければ「@aburaagetarou」のDiscordにお送りください。
+また、「@aburaagetarou(KILOSiberia)」が[HiddenFieldServer](http://seesaawiki.jp/hiddenfieldserver/)で作成したリソースを一部共有しています。
